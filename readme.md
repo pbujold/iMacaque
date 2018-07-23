@@ -63,18 +63,4 @@ A prototype of the app:
 * Node / Express
 * Heroku
 
----
 
-### How to run locally
-
-You will need:
-
-* mLabs account
-
-Steps:
-
-* Clone the repo `gitgit clone https://github.com/fac-12/iMacaque`
-* Install dependencies `npm install`
-* Create a `config.env` in your root directory. This will need:
-* `DATABASE_URL =` [Your mLabs prod DB]
-* Run the app in dev mode: `npm run dev`
